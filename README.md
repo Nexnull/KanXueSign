@@ -1,4 +1,4 @@
-1、访问https://bbs.kanxue.com/user-signin.htm，f12获取cookie
+1、f12获取cookie,访问地址：https://bbs.kanxue.com/user-signin.htm
 
 2、cookie值放入脚本即可
 
