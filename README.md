@@ -1,4 +1,4 @@
-1、访问https://bbs.kanxue.com/user-signin.htm，f12获取cookie
+1、访问https://bbs.kanxue.com/user-signin.htm，f12获取cookie/n
 2、cookie值放入脚本即可
 3、脚本放到服务器定时执行即可
 4、签到示例：
